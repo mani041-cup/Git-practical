@@ -1,1 +1,6 @@
-# Git-practical
+cd /workspaces/git-practical
+git remote -v
+If origin is not configured, add it:
+git remote add origin https://github.com/manikandansaminathan-2007/git-practical.git
+git remote -v
+If origin already exists, do not add it again.
